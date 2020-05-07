@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="starter_icon">this is the starter icon seen on home activity</string>
+    <string name="signup_btn_text">New User ? Signup</string>
+    <string name="login_btn_text">Login</string>
+    <string name="getstarted">Get Started</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="choosepwd">Choose Password</string>
+    <string name="confirmpwd">Confirm Password</string>
+    <string name="fpwd">Forgot Password ?</string>
+    <string name="login">Already Have an Account?</string>
+    <string name="signup">Signup</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_profile">Profile</string>
+    <string name="opt">(Optional)</string>
+    <string name="contdesc">This is a post image</string>
+    <string name="name">Name</string>
+    <string name="BackGround">BackGround</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671873385819",
+    "firebase_url": "https://blog-4c272.firebaseio.com",
+    "project_id": "blog-4c272",
+    "storage_bucket": "blog-4c272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671873385819:android:2bcb6caf37a7a369ff067e",
+        "android_client_info": {
+          "package_name": "com.example.mohan.my_material_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671873385819-kiedd25r9c3ls1pmcqpl7igd79g6cnn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEnzOkykO1RbSLd67KegT4AZWSJKDBwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671873385819-kiedd25r9c3ls1pmcqpl7igd79g6cnn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
